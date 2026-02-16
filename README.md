@@ -1,6 +1,6 @@
 ## Hi there, Valerio here 👋
 
-I'm a software engineer, CTO of Inspector.dev
+I'm a software engineer, CTO of Inspector.dev and creator of Neuron AI framework.
 
 Over the last decade, I built software for companies of any size around Europe. 
 
